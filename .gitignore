@@ -1,0 +1,15 @@
+.vs
+*.VC.db
+*.VC.VC.opendb
+*.vcxproj.user
+
+/bin/
+/obj/
+/build/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
